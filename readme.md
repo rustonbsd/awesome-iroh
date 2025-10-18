@@ -25,22 +25,28 @@ Projects & resources building with iroh!
 
 ## Contents
 
-- [AI/ML](#aiml)
-- [Audio/Video](#audiovideo)
-- [Archiving](#archiving)
-- [Browsers](#browsers)
-- [Collaboration](#collaboration)
-- [Compute](#compute)
-- [DevTools](#devtools)
-- [File Sharing](#file-sharing)
-- [Frameworks](#frameworks)
-- [Libraries and protocols](#libraries-and-protocols)
-- [Games and 3D](#games-and-3d)
-- [Internet of Things](#internet-of-things)
-- [Social Media](#social-media)
-- [Tools for Thought](#tools-for-thought)
-- [Web3](#web3)
-- [Follow](#follow)
+- [Awesome Iroh  ](#awesome-iroh--)
+  - [Contents](#contents)
+  - [AI/ML](#aiml)
+  - [Audio/Video](#audiovideo)
+  - [Archiving](#archiving)
+  - [Browsers](#browsers)
+  - [Collaboration](#collaboration)
+  - [Compute](#compute)
+  - [DevTools](#devtools)
+  - [File Sharing](#file-sharing)
+  - [Frameworks](#frameworks)
+  - [Libraries and protocols](#libraries-and-protocols)
+  - [Games and 3D](#games-and-3d)
+  - [Internet of Things](#internet-of-things)
+  - [Social Media](#social-media)
+  - [Tools for Thought](#tools-for-thought)
+  - [Web3](#web3)
+  - [Follow](#follow)
+    - [Official](#official)
+    - [Semi-official](#semi-official)
+  - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -109,6 +115,7 @@ Projects & resources building with iroh!
 - [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
 - [Godot Iroh](https://github.com/tipragot/godot-iroh) - A peer-to-peer multiplayer extension for Godot based on iroh.
 - [USD Renderer](https://github.com/expenses/usd-render) - Universal Scene Description Render, linked with iroh.
+- [iroh-lan](https://github.com/rustonbsd/iroh-lan) - Have a lan party with iroh (iroh-lan = hamachi - account - install)
 
 ## Internet of Things
 
